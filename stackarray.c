@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define MAX 4
+
+#define MAX 5
 
 int st[MAX],top = -1;
 int option ,data, value;
